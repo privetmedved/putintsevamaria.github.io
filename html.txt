@@ -1,0 +1,10 @@
+<html>
+ <head>
+  <title>моя страница</title>
+ <head>меня зовут Маша</head>
+ <body>
+  <h1>Hello World!</h1>
+  <p>пока.</p>
+  <p>всем пока.</p>
+ </body>
+</html>
